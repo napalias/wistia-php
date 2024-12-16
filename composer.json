@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Automattic\\Wistia\\": "src/"
+            "np\\Wistia\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Automattic\\Wistia\\Tests\\": "tests/"
+            "np\\Wistia\\Tests\\": "tests/"
         },
         "classmap": [
             "src/",
